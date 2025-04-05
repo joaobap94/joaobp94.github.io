@@ -1,0 +1,39 @@
+// Main Colors (Example - Adjust as needed)
+$primary-color: #0d6efd; 
+$secondary-color: #6c757d; 
+$light-color: #f8f9fa; 
+$dark-color: #212529; 
+$text-color: #333;
+$background-color: #ffffff;
+$dark-background: #000000;
+
+$redes-color: #0056b3;
+$sql-color: #0a6e38;
+$web-color: #2c2c44;
+$multimedia-color: #1a1a1a;
+$java-title-color: #9c3e00; 
+$java-bar-color: #b54800;  
+$gest-color: #6a0dad;
+$microsoft-color: #1a2530;
+
+$link-color: $primary-color;
+$link-hover-color: $primary-color;
+$focus-outline-color: $primary-color;
+
+$base-margin: 10px;
+$base-padding: 15px;
+$section-spacing-y: 3rem; 
+
+$primary-font: "Simonetta", serif;
+$secondary-font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; // Bootstrap system font stack
+$tertiary-font: "Calibri", sans-serif;
+$code-font: "Ubuntu", sans-serif;
+
+$base-font-size: 1rem;
+$h2-font-size: $base-font-size * 2;
+$small-font-size: 0.875rem;
+
+$base-border-radius: 0.375rem; 
+
+// Transitions (Example)
+$base-transition-duration: 0.2s;
