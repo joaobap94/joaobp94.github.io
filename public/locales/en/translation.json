@@ -1,0 +1,106 @@
+{
+    "navbar": {
+      "brand": "My Portfolio",
+      "about": "About Me",
+      "grades": "Grades",
+      "experience": "Experience",
+      "certificates": "Certificates",
+      "contact": "Contact",
+      "toggle_lang": "PT"
+    },
+    "about_me": {
+      "title": "About Me",
+      "text": "My name is João Batista, I'm from Santarém and I was born in July 1994. I started studying Computer Science at Dr. Ginestal Machado School, where I attended the Computer Systems Programming course. After that, I graduated in Computer Science at the School of Management and Technology of Santarém, at the age of 21."
+    },
+    "grades": {
+      "title": "Academic Background / Grades",
+      "intro1": "From 2009 to 2012, I developed my knowledge in the programming field through the Computer Systems Programming course at Dr. Ginestal Machado School, with an average grade of 17.",
+      "intro2": "From 2012 to 2015, at the School of Management and Technology of Santarém, I completed my degree in Computer Science with an average grade of 15.",
+      "intro3": "Below are some relevant subjects from this degree, along with the grades."
+    },
+    "experience_section": {
+      "title": "Experience",
+      "linkedin": "For detailed information about my professional experience and projects, add me on Linkedin and request my CV."
+    },
+    "certificates_section": {
+      "title": "Certificates",
+      "subtitle": "Microsoft certified in several areas."
+    },
+    "footer": {
+      "contact_title": "Contact",
+      "social_title": "Social Networks",
+      "copyright": "© {{year}} João Batista. All rights reserved.",
+      "built_with": "This portfolio was built with React & Vite.",
+      "legacy_link": "Click here for legacy 2016 portfolio"
+    },
+    "datatable": {
+      "search": "Search:",
+      "lengthMenu": "Show _MENU_ entries",
+      "info": "Showing _START_ to _END_ of _TOTAL_ entries",
+      "infoEmpty": "Showing 0 to 0 of 0 entries",
+      "infoFiltered": "(filtered from _MAX_ total entries)",
+      "paginate": {
+        "first": "First",
+        "last": "Last",
+        "next": "Next",
+        "previous": "Previous"
+      },
+      "zeroRecords": "No matching records found",
+      "emptyTable": "No data available in table"
+    },
+    "experience_table": {
+      "header_technology": "Technology",
+      "header_type": "Type",
+      "header_time": "Time",
+      "type_development": "Development",
+      "type_version_control": "Version Control",
+      "type_database": "Database",
+      "type_os": "Operating System",
+      "type_methodologies": "Methodologies",
+      "type_reporting": "Reporting",
+      "type_web_server": "Web Server",
+      "type_cloud": "Cloud",
+      "type_architectures": "Architectures",
+      "type_tools": "Tools"
+    },
+    "time_units": {
+      "year": "year",
+      "year_plural": "years",
+      "month": "month",
+      "month_plural": "months"
+    },
+    "grades_filters": {
+      "all": "All",
+      "web": "Web Development",
+      "java": "Java / Mobile",
+      "sql": "MySQL / PLSQL",
+      "multimedia": "Photoshop / Flash",
+      "microsoft": "C#, Azure, Web Services",
+      "redes": "Network Administration",
+      "gest": "Management"
+    },
+    "grades_subjects": {
+      "subject_1_title": "Computer Architecture and Operating Systems",
+      "subject_2_title": "Computer Networks",
+      "subject_3_title": "Databases I",
+      "subject_4_title": "Web Systems",
+      "subject_5_title": "Multimedia Systems",
+      "subject_6_title": "Programming Fundamentals",
+      "subject_7_title": "Programming Languages",
+      "subject_8_title": "Object-Oriented Programming",
+      "subject_9_title": "Information Systems Analysis and Design",
+      "subject_10_title": "Systems Integration I",
+      "subject_11_title": "Databases II",
+      "subject_12_title": "Network Services",
+      "subject_13_title": "Internet Technologies",
+      "subject_14_title": "Multimedia Applications",
+      "subject_15_title": "Systems and Network Administration and Security",
+      "subject_16_title": "Systems Integration II",
+      "subject_17_title": "Information Systems for Management",
+      "subject_18_title": "Mobile Device Development",
+      "subject_19_title": "Open Source Applications",
+      "subject_20_title": "Applied Project (Internship)",
+      "subject_21_title": "Internet Application Development"
+    }
+  }
+  

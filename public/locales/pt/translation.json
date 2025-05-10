@@ -1,0 +1,106 @@
+{
+    "navbar": {
+      "brand": "O Meu Portfólio",
+      "about": "Sobre Mim",
+      "grades": "Notas",
+      "experience": "Experiência",
+      "certificates": "Certificados",
+      "contact": "Contato",
+      "toggle_lang": "EN"
+    },
+    "about_me": {
+      "title": "Sobre mim",
+      "text": "Chamo-me João Batista, sou de Santarém e nasci em Julho de 1994. Comecei a estudar Informática na Escola Dr. Ginestal Machado, onde frequentei o curso de Programação de Sistemas Informáticos. Depois deste, licenciei-me em Informática, na Escola Superior de Gestão e Tecnologia de Santarém, com 21 anos."
+    },
+    "grades": {
+      "title": "Formação Acadêmica / Notas",
+      "intro1": "Do ano 2009 até 2012, desenvolvi os meus conhecimentos na área de programação, graças ao curso de Programação de Sistemas Informáticos, na Escola Dr. Ginestal Machado, com uma média de 17 valores.",
+      "intro2": "Do ano 2012 até 2015, na Escola Superior de Gestão e Tecnologia de Santarém, terminei a licenciatura em Informática com uma média de 15 valores.",
+      "intro3": "Deixo em baixo algumas das cadeiras relevantes, praticadas nesta licenciatura, tal como as notas."
+    },
+    "experience_section": {
+      "title": "Experiência",
+      "linkedin": "Para informações detalhadas sobre a minha experiência profissional e projetos, adiciona o meu LinkedIn e solicite o meu CV."
+    },
+    "certificates_section": {
+      "title": "Certificados",
+      "subtitle": "Microsoft certified em algumas áreas."
+    },
+    "footer": {
+      "contact_title": "Contato",
+      "social_title": "Redes Sociais",
+      "copyright": "© {{year}} João Batista. Todos os direitos reservados.",
+      "built_with": "Este portfólio foi construído com React & Vite.",
+      "legacy_link": "Clicar aqui para portfólio legacy de 2016"
+    },
+    "datatable": {
+      "search": "Pesquisar:",
+      "lengthMenu": "Mostrar _MENU_ entradas",
+      "info": "Mostrando _START_ a _END_ de _TOTAL_ entradas",
+      "infoEmpty": "Mostrando 0 a 0 de 0 entradas",
+      "infoFiltered": "(filtrado de _MAX_ entradas totais)",
+      "paginate": {
+        "first": "Primeiro",
+        "last": "Último",
+        "next": "Próximo",
+        "previous": "Anterior"
+      },
+      "zeroRecords": "Nenhum registo encontrado",
+      "emptyTable": "Não existem dados disponíveis na tabela"
+    },
+    "experience_table": {
+      "header_technology": "Tecnologia",
+      "header_type": "Tipo",
+      "header_time": "Tempo",
+      "type_development": "Desenvolvimento",
+      "type_version_control": "Controlo de versões",
+      "type_database": "Base de dados",
+      "type_os": "Sistema Operativo",
+      "type_methodologies": "Metodologias",
+      "type_reporting": "Reporting",
+      "type_web_server": "Servidor Web",
+      "type_cloud": "Cloud",
+      "type_architectures": "Arquiteturas",
+      "type_tools": "Ferramentas"
+    },
+    "time_units": {
+      "year": "ano",
+      "year_plural": "anos",
+      "month": "mês",
+      "month_plural": "meses"
+    },
+    "grades_filters": {
+      "all": "Todas",
+      "web": "Programação Web",
+      "java": "Java / Mobile",
+      "sql": "MySQL / PLSQL",
+      "multimedia": "Photoshop / Flash",
+      "microsoft": "C#, Azure, Web Services",
+      "redes": "Administração de Redes",
+      "gest": "Gestão"
+    },
+    "grades_subjects": {
+      "subject_1_title": "Arquitectura de Computadores e Sist. Operativos",
+      "subject_2_title": "Redes de Computadores",
+      "subject_3_title": "Bases de Dados I",
+      "subject_4_title": "Sistemas Web",
+      "subject_5_title": "Sistemas Multimédia",
+      "subject_6_title": "Fundamentos de Programação",
+      "subject_7_title": "Linguagens de Programação",
+      "subject_8_title": "Programação Orientada aos Objetos",
+      "subject_9_title": "Análise e Concepção de Sistemas de Informação",
+      "subject_10_title": "Integração de Sistemas I",
+      "subject_11_title": "Bases de Dados II",
+      "subject_12_title": "Serviços de Redes",
+      "subject_13_title": "Tecnologias da Internet",
+      "subject_14_title": "Aplicações Multimédia",
+      "subject_15_title": "Administração e Segurança de Sistemas e de Redes",
+      "subject_16_title": "Integração de Sistemas II",
+      "subject_17_title": "Sistemas de Informação para a Gestão",
+      "subject_18_title": "Desenvolvimento de Dispositivos Móveis",
+      "subject_19_title": "Aplicações de Código Aberto",
+      "subject_20_title": "Projeto Aplicado (Estágio)",
+      "subject_21_title": "Desenvolvimento de Aplicações na Internet"
+    }
+  }
+  

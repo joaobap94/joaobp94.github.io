@@ -1,0 +1,43 @@
+// Import variables
+@use '../../styles/variables' as *; 
+
+.web-color { background-color: $web-color !important; border-color: $web-color !important; }
+.java-color { background-color: $java-title-color !important; border-color: $java-title-color !important; }
+.sql-color { background-color: $sql-color !important; border-color: $sql-color !important; }
+.multimedia-color { background-color: $multimedia-color !important; border-color: $multimedia-color !important; }
+.microsoft-color { background-color: $microsoft-color !important; border-color: $microsoft-color !important; }
+.redes-color { background-color: $redes-color !important; border-color: $redes-color !important; }
+.gest-color { background-color: $gest-color !important; border-color: $gest-color !important; }
+
+
+.btn-group > .btn.btn-primary {
+  z-index: 1;
+} 
+
+.filter-button {
+  height: 65px; 
+  min-width: 120px;
+}
+
+// --- Transition Styles ---
+.fade-enter {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.fade-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}

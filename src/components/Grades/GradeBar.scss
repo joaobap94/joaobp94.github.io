@@ -1,0 +1,74 @@
+// Import variables
+@use '../../styles/variables' as *; 
+
+.gradebar {
+    font-family: $code-font; 
+    position:relative;
+    display:block;
+    margin-bottom: $base-margin * 1.5;
+    background:#eee;
+    height:35px;
+    border-radius: $base-border-radius;
+    transition:0.4s linear;
+    transition-property:width, background-color;
+    overflow: hidden;
+}
+
+.gradebar-title {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    font-weight:bold;
+    font-size: $small-font-size;
+    color: white; 
+    background: rgba(0,0,0,0.1);
+    height:35px;
+    line-height:35px;
+    padding: 0 $base-padding;
+    box-sizing: border-box;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    z-index: 2;
+}
+
+.gradebar-bar {
+    height:35px;
+    width:0px; 
+    border-radius: $base-border-radius; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; 
+    transition: width 0.4s linear; 
+}
+
+.grade-bar-percent {
+    font-family: $tertiary-font; 
+    font-size: $base-font-size; 
+    position:absolute;
+    font-weight: bold;
+    right: $base-margin; 
+    top:0;
+    height:35px;
+    line-height:35px;
+    color: #6F0606; 
+    z-index: 3; 
+
+    // Style for full grade (grade = 20)
+    &.full-grade {
+        color: #ffffff; // Set text color to white for full grade
+    }
+}
+
+
+@media (max-width: 500px) {
+    .gradebar-title {
+        font-size:10px;
+        padding: 0 $base-margin; 
+    }
+    .grade-bar-percent {
+        font-size: $small-font-size;
+    }
+} 
